@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d65876bf-1a6c-420c-a308-b9fcc3c683e1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gEhXzVGBUXpkSlSMIVUcb6SyOY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Stack">
+    <configuration name="Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaStack.Stack" />
+      <module name="javaStack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaStack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaStack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaStack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="javaStack" />
+      <option name="MAIN_CLASS_NAME" value="javaStack.StackTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackTest.pushAndPopMultiple" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaStack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaStack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="javaStack" />
+      <option name="MAIN_CLASS_NAME" value="javaStack.StackTest" />
+      <option name="METHOD_NAME" value="pushAndPopMultiple" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Stack" />
+        <item itemvalue="JUnit.StackTest" />
+        <item itemvalue="JUnit.StackTest.pushAndPopMultiple" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d65876bf-1a6c-420c-a308-b9fcc3c683e1" name="Default Changelist" comment="" />
+      <created>1597685702052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597685702052</updated>
+      <workItem from="1597685706030" duration="2918000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597685872500">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="137" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.736@0.0.1366.736" timestamp="1597685872500" />
+    <state x="412" y="158" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1597685828925">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="412" y="158" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.736@0.0.1366.736" timestamp="1597685828925" />
+    <state width="1323" height="181" key="GridCell.Tab.0.bottom" timestamp="1597688978130">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="181" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1597688978130" />
+    <state width="1323" height="181" key="GridCell.Tab.0.center" timestamp="1597688978129">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="181" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1597688978129" />
+    <state width="1323" height="181" key="GridCell.Tab.0.left" timestamp="1597688978129">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="181" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1597688978129" />
+    <state width="1323" height="181" key="GridCell.Tab.0.right" timestamp="1597688978130">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="181" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1597688978130" />
+    <state width="1323" height="226" key="GridCell.Tab.1.bottom" timestamp="1597687419829">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.1.bottom/0.0.1366.736@0.0.1366.736" timestamp="1597687419829" />
+    <state width="1323" height="226" key="GridCell.Tab.1.center" timestamp="1597687419828">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.1.center/0.0.1366.736@0.0.1366.736" timestamp="1597687419828" />
+    <state width="1323" height="226" key="GridCell.Tab.1.left" timestamp="1597687419828">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.1.left/0.0.1366.736@0.0.1366.736" timestamp="1597687419828" />
+    <state width="1323" height="226" key="GridCell.Tab.1.right" timestamp="1597687419828">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state width="1323" height="226" key="GridCell.Tab.1.right/0.0.1366.736@0.0.1366.736" timestamp="1597687419828" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/javaStack$StackTest_pushAndPopMultiple.ic" NAME="StackTest.pushAndPopMultiple Coverage Results" MODIFIED="1597687419734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>javaStack.*</FILTER>
+    </SUITE>
+  </component>
+</project>
