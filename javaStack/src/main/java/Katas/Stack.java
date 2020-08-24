@@ -1,4 +1,4 @@
-package javaStack;
+package Katas;
 
 public class Stack {
 

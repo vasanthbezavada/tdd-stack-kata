@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="javaStack" />
+        <module name="Katas" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="javaStack" target="14" />
+      <module name="Katas" target="14" />
     </bytecodeTargetLevel>
   </component>
 </project>
