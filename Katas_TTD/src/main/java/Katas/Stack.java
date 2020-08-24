@@ -1,17 +1,12 @@
 package Katas;
-
+// STATIC STACK
 public class Stack {
 
-	public String[] stringStack ;
-	public int currentIndex;
-	public int size;
-	
-	public Stack(int size) {
-		this.size=size;
-		this.stringStack= new String[size];
-		this.currentIndex=0;
-	}
-	
+	public static final int SIZE = 10;
+	public static int currentIndex=0;
+	public static String[] stringStack = new String[SIZE];
+
+
 	public void push(String element) throws Exception {
 		if(element== null)
 			throw new Exception();
