@@ -27,7 +27,7 @@ public class RomanNumConversionTest {
         String value = "DCC";
         assertEquals("700",conversion.convertToDecimal(value));
         String value2 = "MDCL";
-        assertEquals("1650",conversion.convertToDecimal(value));    
+        assertEquals("1650",conversion.convertToDecimal(value));
     }
 
 

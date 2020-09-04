@@ -2,7 +2,7 @@ package Katas;
 
 public class FizzBuzz {
     public static String getResult(int number) {
-        if (isDivisibleBy3(number) && isDivisibleBy3(number)) {
+        if (isDivisibleBy3(number) && isDivisibleBy5(number)) {
             return "fizzbuzz";
         }
         else if (isDivisibleBy3(number)){
